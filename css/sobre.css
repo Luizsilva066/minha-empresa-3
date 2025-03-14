@@ -1,0 +1,22 @@
+.sobre{
+    display: flex;
+    padding: 146px;
+    gap: 60px;
+    
+    & .container{
+    display: flex;
+    justify-content: space-between;
+    }
+       
+
+      
+    & img{
+        width: 560px;
+        height: 400px;
+    }
+}
+
+
+
+
+
